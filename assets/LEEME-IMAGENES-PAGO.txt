@@ -1,0 +1,8 @@
+IMÁGENES DE LA SECCIÓN «PAGA TU ARRIENDO»
+
+Coloca tus tres imágenes JPG en esta carpeta con estos nombres exactos:
+- imagenpago1.jpg  (paso 1)
+- imagenpago2.jpg  (paso 2)
+- imagenpago3.jpg  (paso 3)
+
+El teléfono mostrará únicamente la imagen correspondiente al paso activo.

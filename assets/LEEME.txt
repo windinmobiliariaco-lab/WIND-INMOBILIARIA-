@@ -1,0 +1,5 @@
+Coloca aquí tus imágenes PNG/JPG:
+- logo-wind.png (logo oficial)
+- whatsapp.png (icono de WhatsApp)
+- testimonio-1.jpg (foto para el primer testimonio)
+- testimonio-2.jpg (foto para el segundo testimonio)

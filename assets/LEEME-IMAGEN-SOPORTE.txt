@@ -1,0 +1,8 @@
+IMAGEN DE FONDO — FASE 06 SOPORTE
+
+Coloca aquí tu fotografía y nómbrala exactamente: soporte.jpg
+
+Ruta final: assets/soporte.jpg
+Formato: JPG o JPEG (si tu archivo tiene otra extensión, conviértelo a JPG y conserva este nombre).
+
+La tarjeta editorial de la izquierda la mostrará automáticamente como imagen de fondo. No hay ninguna imagen de soporte predeterminada incluida.
